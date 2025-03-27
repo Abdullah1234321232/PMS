@@ -1,0 +1,13 @@
+Assistant checkpoint
+
+Assistant generated file changes:
+- export_app.sh: Update export script to use tar instead of zip
+
+---
+
+User prompt:
+
+wheres the file
+
+Replit-Commit-Author: Assistant
+Replit-Commit-Session-Id: ce3f05cb-d671-4a23-9603-7af2b8b43003
